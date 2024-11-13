@@ -3,6 +3,7 @@
   <version>1000</version>
   <dependencies>
     <dependency>profile-DocentIMS.ActionItems:meadows</dependency>
+    <dependency>profile-medialog.notifications:default</dependency>
     
   </dependencies>
 </metadata>
