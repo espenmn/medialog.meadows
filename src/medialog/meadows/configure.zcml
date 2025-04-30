@@ -19,7 +19,7 @@
 
   <genericsetup:registerProfile
       name="default"
-      title="medialog.meadows"
+      title="Action Items Meadows"
       directory="profiles/default"
       description="Installs the medialog.meadows add-on."
       provides="Products.GenericSetup.interfaces.EXTENSION"
