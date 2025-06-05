@@ -6,6 +6,6 @@
     <dependency>profile-collective.collectionfilter.portlets:default</dependency>
     <dependency>profile-medialog.notifications:default</dependency>
     <dependency>profile-collective.sidebar:default</dependency>
-    <dependency>profile-medialog.themeadows:default</dependency>    
+    <!-- <dependency>profile-medialog.themeadows:default</dependency>     -->
   </dependencies>
 </metadata>
