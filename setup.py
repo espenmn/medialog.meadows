@@ -54,8 +54,7 @@ setup(
         'plone.api>=1.8.4',
         'plone.app.dexterity',
         'DocentIMS.ActionItems',
-        'medialog.notifications',
-        'medialog.themeadows'
+        'medialog.notifications'
     ],
     extras_require={
         'test': [
