@@ -53,8 +53,10 @@ setup(
         # -*- Extra requirements: -*-
         'plone.api>=1.8.4',
         'plone.app.dexterity',
+        'collective.sidebar',
         'DocentIMS.ActionItems',
-        'medialog.notifications'
+        'medialog.notifications',
+        'medialog.docenttheme'
     ],
     extras_require={
         'test': [
